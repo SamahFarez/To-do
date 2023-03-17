@@ -62,13 +62,8 @@ switch ($vars['action']) {
                     exit;
                 }
             }
-
         }
         break;
-
-
-
-
 
     case "login": {
             // Start session
